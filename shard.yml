@@ -1,0 +1,13 @@
+name: primitive-pigeon-client
+version: 0.1.0
+
+authors:
+  - Ivan Chinenov <ichinenov@gmail.com>
+
+targets:
+  primitive-pigeon-client:
+    main: src/primitive-pigeon-client.cr
+
+crystal: 0.31.0
+
+license: MIT
